@@ -15,7 +15,7 @@
  ex int final_prince = 13; is right but,
     int final price  = 13; and 
     int final,price = 13 is wrong */
-// variable meanse that can change so also variable meanse that can change(update)    
+// variable meanse that can change so here also variable meanse that can change(update)    
 int main(){
    int age = 22; 
 //    updated variable
